@@ -51,7 +51,7 @@ function getQuestions() {
     }
   };
 
-  myRequest.open("GET", "https://MostafaMahmoud79.github.io/Quiz/webDevlopement_questions.json", true)
+  myRequest.open("GET", "https://mostafamahmoud79.github.io/Quiz/webDevlopement_questions.json", true)
   myRequest.send()
 }
 
